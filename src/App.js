@@ -43,3 +43,4 @@ export default App;
 // 3.	Napraviti JSX element koji će prikazati neki tekst na ekranu
 // 4.	Napraviti JSX element koji će prikazati neki tekst na ekranu + vrijednost jedne od varijabli
 // 5.	Napraviti JSX element koji će prikazati obje varijable odvojene razmakom
+// 6. instalirati loadash pa se poigrati sa stringom
